@@ -1,204 +1,208 @@
 - name: fluid:water
   location: "item/fluid:water.png"
   strings:
-  - '~fluid:water~'
+    - '~fluid:water~'
 - name: fluid:lava
   location: "item/fluid:lava.png"
   strings:
-  - '~fluid:lava~'
+    - '~fluid:lava~'
 - name: minecraft:piston:0
   location: "item/minecraft:piston:0.png"
   strings:
-  - '~minecraft:piston:0~'
+    - '~minecraft:piston:0~'
 - name: minecraft:wheat_seeds:0
   location: "item/minecraft:wheat_seeds:0.png"
   strings:
-  - '~minecraft:wheat_seeds:0~'
-- name: gunsrpg:amethyst_ammo_12g:0 
+    - '~minecraft:wheat_seeds:0~'
+- name: gunsrpg:amethyst_ammo_12g:0
   location: "item/gunsrpg:amethyst_ammo_12g:0.png"
   strings:
-  - '~gunsrpg:amethyst_ammo_12g:0~'
+    - '~gunsrpg:amethyst_ammo_12g:0~'
 - name: minecraft:golden_rail:0
   location: "item/minecraft:golden_rail:0.png"
   strings:
-  - '~minecraft:golden_rail:0~'
+    - '~minecraft:golden_rail:0~'
 - name: minecraft:end_crystal:0
   location: "item/minecraft:end_crystal:0.png"
   strings:
-  - '~minecraft:end_crystal:0~'
+    - '~minecraft:end_crystal:0~'
 - name: minecraft:brown_mushroom:0
   location: "item/minecraft:brown_mushroom:0.png"
   strings:
-  - '~minecraft:brown_mushroom:0~'
+    - '~minecraft:brown_mushroom:0~'
 - name: minecraft:gold_ingot:0
   location: "item/minecraft:gold_ingot:0.png"
   strings:
-  - '~minecraft:gold_ingot:0~'
+    - '~minecraft:gold_ingot:0~'
 - name: minecraft:rabbit_hide:0
   location: "item/minecraft:rabbit_hide:0.png"
   strings:
-  - '~minecraft:rabbit_hide:0~'
+    - '~minecraft:rabbit_hide:0~'
 - name: minecraft:blaze_rod:0
   location: "item/minecraft:blaze_rod:0.png"
   strings:
-  - '~minecraft:blaze_rod:0~'
+    - '~minecraft:blaze_rod:0~'
 - name: minecraft:stone_pickaxe:0
   location: "item/minecraft:stone_pickaxe:0.png"
   strings:
-  - '~minecraft:stone_pickaxe:0~'
+    - '~minecraft:stone_pickaxe:0~'
 - name: minecraft:light_blue_glazed_terracotta:0
   location: "item/minecraft:light_blue_glazed_terracotta:0.png"
   strings:
-  - '~minecraft:light_blue_glazed_terracotta:0~'
+    - '~minecraft:light_blue_glazed_terracotta:0~'
 - name: minecraft:dispenser:0
   location: "item/minecraft:dispenser:0.png"
   strings:
-  - '~minecraft:dispenser:0~'
+    - '~minecraft:dispenser:0~'
 - name: minecraft:wooden_axe:0
   location: "item/minecraft:wooden_axe:0.png"
   strings:
-  - '~minecraft:wooden_axe:0~'
+    - '~minecraft:wooden_axe:0~'
 - name: gunsrpg:amethyst:0
   location: "item/gunsrpg:amethyst:0.png"
   strings:
-  - '~gunsrpg:amethyst:0~'
+    - '~gunsrpg:amethyst:0~'
 - name: minecraft:bone_block:0
   location: "item/minecraft:bone_block:0.png"
   strings:
-  - '~minecraft:bone_block:0~'
+    - '~minecraft:bone_block:0~'
 - name: minecraft:daylight_detector:0
   location: "item/minecraft:daylight_detector:0.png"
   strings:
-  - '~minecraft:daylight_detector:0~'
+    - '~minecraft:daylight_detector:0~'
 - name: minecraft:sponge:0
   location: "item/minecraft:sponge:0.png"
   strings:
-  - '~minecraft:sponge:0~'
+    - '~minecraft:sponge:0~'
 - name: minecraft:sponge:1
   location: "item/minecraft:sponge:1.png"
   strings:
-  - '~minecraft:sponge:1~'
+    - '~minecraft:sponge:1~'
 - name: minecraft:quartz_stairs:0
   location: "item/minecraft:quartz_stairs:0.png"
   strings:
-  - '~minecraft:quartz_stairs:0~'
+    - '~minecraft:quartz_stairs:0~'
 - name: minecraft:red_flower:0
   location: "item/minecraft:red_flower:0.png"
   strings:
-  - '~minecraft:red_flower:0~'
+    - '~minecraft:red_flower:0~'
 - name: minecraft:red_flower:1
   location: "item/minecraft:red_flower:1.png"
   strings:
-  - '~minecraft:red_flower:1~'
+    - '~minecraft:red_flower:1~'
 - name: minecraft:red_flower:2
   location: "item/minecraft:red_flower:2.png"
   strings:
-  - '~minecraft:red_flower:2~'
+    - '~minecraft:red_flower:2~'
 - name: minecraft:red_flower:3
   location: "item/minecraft:red_flower:3.png"
   strings:
-  - '~minecraft:red_flower:3~'
+    - '~minecraft:red_flower:3~'
 - name: minecraft:red_flower:4
   location: "item/minecraft:red_flower:4.png"
   strings:
-  - '~minecraft:red_flower:4~'
+    - '~minecraft:red_flower:4~'
 - name: minecraft:red_flower:5
   location: "item/minecraft:red_flower:5.png"
   strings:
-  - '~minecraft:red_flower:5~'
+    - '~minecraft:red_flower:5~'
 - name: minecraft:red_flower:6
   location: "item/minecraft:red_flower:6.png"
   strings:
-  - '~minecraft:red_flower:6~'
+    - '~minecraft:red_flower:6~'
 - name: minecraft:red_flower:7
   location: "item/minecraft:red_flower:7.png"
   strings:
-  - '~minecraft:red_flower:7~'
+    - '~minecraft:red_flower:7~'
 - name: minecraft:red_flower:8
   location: "item/minecraft:red_flower:8.png"
   strings:
-  - '~minecraft:red_flower:8~'
+    - '~minecraft:red_flower:8~'
 - name: minecraft:bed:0
   location: "item/minecraft:bed:0.png"
   strings:
-  - '~minecraft:bed:0~'
+    - '~minecraft:bed:0~'
 - name: minecraft:bed:1
   location: "item/minecraft:bed:1.png"
   strings:
-  - '~minecraft:bed:1~'
+    - '~minecraft:bed:1~'
 - name: minecraft:bed:2
   location: "item/minecraft:bed:2.png"
   strings:
-  - '~minecraft:bed:2~'
+    - '~minecraft:bed:2~'
 - name: minecraft:bed:3
   location: "item/minecraft:bed:3.png"
   strings:
-  - '~minecraft:bed:3~'
+    - '~minecraft:bed:3~'
 - name: minecraft:bed:4
   location: "item/minecraft:bed:4.png"
   strings:
-  - '~minecraft:bed:4~'
+    - '~minecraft:bed:4~'
 - name: minecraft:bed:5
   location: "item/minecraft:bed:5.png"
   strings:
-  - '~minecraft:bed:5~'
+    - '~minecraft:bed:5~'
 - name: minecraft:bed:6
   location: "item/minecraft:bed:6.png"
   strings:
-  - '~minecraft:bed:6~'
+    - '~minecraft:bed:6~'
 - name: minecraft:bed:7
   location: "item/minecraft:bed:7.png"
   strings:
-  - '~minecraft:bed:7~'
+    - '~minecraft:bed:7~'
 - name: minecraft:bed:8
   location: "item/minecraft:bed:8.png"
   strings:
-  - '~minecraft:bed:8~'
+    - '~minecraft:bed:8~'
 - name: minecraft:bed:9
   location: "item/minecraft:bed:9.png"
   strings:
-  - '~minecraft:bed:9~'
+    - '~minecraft:bed:9~'
 - name: minecraft:bed:10
   location: "item/minecraft:bed:10.png"
   strings:
-  - '~minecraft:bed:10~'
+    - '~minecraft:bed:10~'
 - name: minecraft:bed:11
   location: "item/minecraft:bed:11.png"
   strings:
-  - '~minecraft:bed:11~'
+    - '~minecraft:bed:11~'
 - name: minecraft:bed:12
   location: "item/minecraft:bed:12.png"
   strings:
-  - '~minecraft:bed:12~'
+    - '~minecraft:bed:12~'
 - name: minecraft:bed:13
   location: "item/minecraft:bed:13.png"
   strings:
-  - '~minecraft:bed:13~'
+    - '~minecraft:bed:13~'
 - name: minecraft:bed:14
   location: "item/minecraft:bed:14.png"
   strings:
-  - '~minecraft:bed:14~'
+    - '~minecraft:bed:14~'
 - name: minecraft:bed:15
   location: "item/minecraft:bed:15.png"
   strings:
-  - '~minecraft:bed:15~'
+    - '~minecraft:bed:15~'
 - name: minecraft:iron_nugget:0
   location: "item/minecraft:iron_nugget:0.png"
   strings:
-  - '~minecraft:iron_nugget:0~'
+    - '~minecraft:iron_nugget:0~'
 - name: minecraft:melon:0
   location: "item/minecraft:melon:0.png"
   strings:
-  - '~minecraft:melon:0~'
+    - '~minecraft:melon:0~'
 - name: minecraft:purple_glazed_terracotta:0
   location: "item/minecraft:purple_glazed_terracotta:0.png"
   strings:
-  - '~minecraft:purple_glazed_terracotta:0~'
+    - '~minecraft:purple_glazed_terracotta:0~'
 - name: gunsrpg:iron_stock:0
   location: "item/gunsrpg:iron_stock:0.png"
   strings:
-  - '~gunsrpg:iron_stock:0~'
+    - '~gunsrpg:iron_stock:0~'
 - name: minecraft:birch_fence:0
   location: "item/minecraft:birch_fence:0.png"
   strings:
-  - '~minecraft:birch_fence:0~'
+    - '~minecraft:birch_fence:0~'
+- name: minecraft:potion:0__{Potion:"minecraft:night_vision"}
+  location: 'item/minecraft:potion:0__{Potion:"minecraft:night_vision"}.png'
+  strings:
+    - '~minecraft:potion:0__{Potion:"minecraft:night_vision"}~'
