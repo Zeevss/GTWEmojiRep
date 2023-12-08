@@ -1,0 +1,12 @@
+-  name: apple
+   location: "icon/apple.png"
+   strings: 
+   - '{apple}'
+-  name: sms
+   location: "icon/sms.png"
+   strings: 
+   - '{sms}'
+-  name: gran
+   location: "icon/gran.png"
+   strings: 
+   - '{gran}'
